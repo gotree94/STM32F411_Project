@@ -11,6 +11,12 @@
 
 ## Firmware
 
+* 프로젝트 생성
+
+* RCC : Disable
+
+* Open Project
+
 ```c
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
@@ -24,12 +30,3 @@
 }
 ```
 
-
-
-
-
-
-
-
-
->>>>>>> 3a6f475e1913ea2c1837909c3f48c49170066574
