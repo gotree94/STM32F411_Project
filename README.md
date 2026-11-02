@@ -11,17 +11,20 @@
 
 ## Firmware
 
+* RCC : Disable
+
 ![](001.png)
+
+* CLOCK
 
 ![](002.png)
 
-![](003.png)
 
 * 프로젝트 생성
 
-* RCC : Disable
+![](003.png)
 
-* Open Project
+
 
 ```c
   /* Infinite loop */
